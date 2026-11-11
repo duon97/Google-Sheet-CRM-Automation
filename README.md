@@ -33,7 +33,6 @@ Leads who registered for a Data Analyst event are collected into one master list
 - Status "Not Contact Yet" means the lead has no tag yet
 <img width="877" height="262" alt="image" src="https://github.com/user-attachments/assets/9c641c4c-e78e-46a2-918b-abfd0992945f" />
 
-## Results
 
 
 - 
