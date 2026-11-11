@@ -1,10 +1,10 @@
 # Google-Sheet-CRM-Automation
 # Lead Management: Automated Lead Distribution and Sales Tracking Dashboard
 
-## Background
-Leads who registered for a Data Analyst event are collected into one master list. This project does two things: distribute leads evenly among sales reps, and track each rep's progress by contact status.
+## Problem
+Potential customers (Leads) who registered for a Data Analyst event are collected into one master list. This project does two things: distribute leads evenly among sales reps, and track each rep's progress by contact status.
 
-## Requirements
+## Requirement
 1. Automatically distribute leads from the master list to individual sales reps.
 2. Build a dashboard to track lead management per sales rep, broken down by contact status.
 
