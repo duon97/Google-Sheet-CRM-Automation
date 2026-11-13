@@ -1,6 +1,10 @@
 # Google-Sheet-CRM-Automation
 # Lead Management: Automated Lead Distribution and Sales Tracking Dashboard
 
+Tools: Google Sheets (`QUERY`, Pivot Table)
+
+## Problem
+Potential customers (Leads) who registered for a Data Analyst event are collected into one master list. This project does two things: distribute leads evenly among sales reps, and track each rep's progress by contact status.
 ## Problem
 Potential customers (Leads) who registered for a Data Analyst event are collected into one master list. This project does two things: distribute leads evenly among sales reps, and track each rep's progress by contact status.
 
